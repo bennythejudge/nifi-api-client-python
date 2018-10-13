@@ -1,5 +1,7 @@
 # nifi-api-client-python
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/nifi-api-client-python.svg)](https://www.guardrails.io)
+
 **Work in progress, but this can be used**
 
 This is a simple Python client used to make requests to the NiFi REST API (**1.x**). The goal is to ease the monitoring and management of NiFi throught scripted calls.
